@@ -19,5 +19,5 @@
 
 | Kind | Project |
 | --- | --- |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | [Developer Guide DevSoutinho](https://github.com/omariosouto/awesome-dev-guide-devsoutinho) |
+|![GitHub deployments](https://img.shields.io/badge/🤖-ErisBot-blue) | [BOT](https://github.com/sindresorhus/awesome) |
 | ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzR2u5RWXWjUh7CwLSvbitA?style=social) | [YouTube Channel](https://youtube.com/c/DevSoutinho) |
